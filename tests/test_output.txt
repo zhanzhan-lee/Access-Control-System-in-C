@@ -1,0 +1,6 @@
+User ID: 
+Email: 
+Login Count: 0
+Login Fail Count: 0
+Last Login Time: 1970-01-01 08:00:00
+Last IP: 0.0.0.0
